@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritxsh7&label=Profile%20views&color=0e75b6&style=flat" alt="ritxsh7" /> </p>
 
-- 👨‍💻 All of my projects are available at [ritesh-patil-portfolio.web.app](ritesh-patil-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [ritesh-patil-portfolio.web.app](https://ritesh-patil-portfolio.web.app)
 
 - 💬 Ask me about **Full Stack Web Development, System Architecture Design, DSA and problem solving**
 
