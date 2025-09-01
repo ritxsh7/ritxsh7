@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [ritesh-patil-portfolio.web.app](https://ritesh-patil-portfolio.web.app)
 
-- 💬 Ask me about **Full Stack Web Development, System Architecture Design, DSA and problem solving**
+- 💬 Ask me about **Java/Spring Boot based backend applications, System Architecture Design, DSA and Problem Solving**
 
-- 📫 How to reach me **patilritesh712003@gmail.com**
+- 📫 How to reach me **Personal- patilritesh712003@gmail.com | Official- riteshjagannath.p@edgeverve.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
